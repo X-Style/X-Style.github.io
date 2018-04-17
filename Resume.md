@@ -1,12 +1,12 @@
 # RESUME Jason
 
- - 姓 名 / 王杨德(Jason.Wang)
+ - 姓 名 / Jason.Wang
  - 性 别 / 男
  - 出生日期 / 1990.07
  - 居 住 地 / 福州
- - E-mail / wang_yangde@126.com | 273869746@qq.com
+ - E-mail / 273869746@qq.com
  - Tel / +086-152-8000-1667
- - WebSite / https://blog.wangyangde.cn/
+ - WebSite / https://x-style.github.io/
 
 ---
 
