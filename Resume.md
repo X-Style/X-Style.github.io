@@ -17,8 +17,8 @@
  - 学历 / 专科
  - 专业描述：
     > 熟练掌握html5/CSS3/JavaScript/jQuery/Vue/Wepy等Web开发技术  
-     熟练使用Vue框架进行模块化开发 熟练使用Vue框架进行模块化开发  
-     擅长使用Photoshop/Sublime/VSCode/Git/SVN等开发软件
+    熟练使用Vue框架进行模块化开发 熟练使用Vue框架进行模块化开发  
+    擅长使用Photoshop/Sublime/VSCode/Git/SVN等开发软件
  - 主要技能 / HTML(5)/CSS(3)/JavaScript/jQuery/Zepto/Swiper等
 
 ---
