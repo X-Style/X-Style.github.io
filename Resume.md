@@ -15,11 +15,8 @@
  - 学校 / 闽江学院
  - 专业 / 图形图形制作
  - 学历 / 专科
- - 专业描述：
-    > 熟练掌握html5/CSS3/JavaScript/jQuery/Vue/Wepy等Web开发技术  
-    熟练使用Vue框架进行模块化开发熟练使用Vue框架进行模块化开发  
-    擅长使用Photoshop/Sublime/VSCode/Git/SVN等开发软件
- - 主要技能 / HTML(5)/CSS(3)/JavaScript/jQuery/Zepto/Swiper等
+ - 专业描述 / 熟练使用Photoshop/Dreamweaver/Sublime/VSCode/Firebug等软件
+ - 主要技能 / HTML(5)/CSS(3)/JavaScript/Vue.js/jQuery/Zepto/Swiper/Wepy等
 
 ---
 
@@ -32,11 +29,11 @@
  - 公司规模 / 200-500人
  - 行业 / 超市零售
  - 部门 / 新媒体中心 - 技术开发部
- - 职位 / WEB前端开发
+ - 职位 / WEB前端开发职
  - 工作描述 / 主要负责：
     > 负责公司前端开发技术选型  
     优化前端开发方式及协作流程，创建技术标准及规范  
-    使用vue框架开发偶遇优选核销后台网站开发,一元购券项目开发
+    使用vue框架开发偶遇优选核销后台网站开发,一元购券项目开发等
 
 
  - 时间 / 2016年5月2017年2月
@@ -69,8 +66,8 @@
 
 # Speciality
 
- - 擅长使用Photoshop/Dreamweaver/Sublime等网页制作软件
- - 擅长应用DIV+CSS/HTML5+CSS3/JavaScript/jQuery/Zepto/Swiper进行网页制作
+ - 擅长使用Photoshop/Dreamweaver/Sublime/VScode等网页制作软件
+ - 擅长应用DIV+CSS/HTML5+CSS3/JavaScript/VUE.js/jQuery/Zepto/Swiper进行网页制作
  - 熟练DEDECMS,WordPress等系统的模板制作
  - 参与过91门户/安卓网的站群策划和前端工作及维护
  - 了解HTML/HTML5的“语义化”
