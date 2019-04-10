@@ -7,7 +7,7 @@
  - E-mail / 273869746@qq.com
  - Tel / +086-152-8000-1667
  - WebSite / https://x-style.github.io/
- - Case / https://x-style.github.io//Vue-Admin-Template/
+ - Case / https://x-style.github.io/Vue-Admin-Template/
 ---
 
 # Educational Experience
