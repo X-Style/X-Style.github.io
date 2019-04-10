@@ -53,7 +53,7 @@
 - 负责彩食鲜后台系统开发
 - 微信公众号“惠客点”领券项目及活动游戏开发
 
-##
+
 
  - 时间 / 2012年8月至2016年5月
  - 公司 / 百度时代网络技术(福州)有限公司
@@ -73,7 +73,8 @@
 # Speciality
 
  - 熟练使用html5+css3，掌握flex，rem+vw等布局
- - 熟练使用bootstrap，element-ui，iview等UI框架，熟练使用jQuery，vue等框架进行项目开发
+ - 熟练使用bootstrap，element-ui，iview等UI框架
+ - 熟练使用jQuery，Vue, Vue Router, Vuex, Axios, iView, Mock.js等技术栈进行项目开发
  - 熟练使用Vue全家桶进行项目开发，了解MVVM双向数据绑定原理
  - 熟悉微信小程序开发
  - 熟练使用git进行项目管理和团队协作
