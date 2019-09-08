@@ -1,5 +1,0 @@
-body, html { font-size: 100%; padding: 0; margin: 0;}
-ul{list-style:none;}
-.slider{width: 100% !important; height:805px; margin:0 auto; overflow: hidden; position:relative; background:#093e96}
-.slider .slider-main li{ width:100% !important; }
-.slider .slider-main li img{width:2000px !important;height:805px !important;position: absolute;left:50%;margin-left:-1000px;}
